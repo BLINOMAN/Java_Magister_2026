@@ -1,0 +1,21 @@
+package Lab7.lr7;
+
+import java.io.Serializable;
+
+public class Person_Serializable implements Serializable {
+    private String name;
+    private int age;
+
+    public Person_Serializable(String name, int age) {
+        this.name = name;
+        this.age = age;
+    }
+    
+    public String getName() {
+        return name;
+    }
+
+    public int getAge() {
+        return age;
+    }
+}
