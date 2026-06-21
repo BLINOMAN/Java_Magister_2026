@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<songs>
+            
+    
+    <song>
+                        
+        
+        <title>Помнят с горечью древляне</title>
+                        
+        
+        <artist>Король и Шут</artist>
+                        
+        
+        <year>2000</year>
+                    
+    
+    </song>
+            
+    
+    
+    <book>
+                        
+        
+        <title>Град обреченный</title>
+                        
+        
+        <author>Братья Стругацкие</author>
+                        
+        
+        <year>1972</year>
+                    
+    
+    </book>
+        
+
+    <song>
+        <title>Children</title>
+        <artist>Robert Miles</artist>
+        <year>1996</year>
+    </song>
+</songs>
